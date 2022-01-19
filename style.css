@@ -13,7 +13,8 @@
     border-radius: 100%;
     border: black solid 1px;
     margin: 5px;
-    font-size: 45px;
+    padding-top: 5px;
+    font-size: 35px;
     text-align: center;
 }
 .cadre{
@@ -35,4 +36,5 @@
 }
 .count{
     color: wheat;
+    font-family: 'Electrolize', sans-serif;
 }
